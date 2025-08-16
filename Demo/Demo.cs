@@ -1,4 +1,4 @@
-﻿using Demo.Abstraction;
+﻿using Demo.Trainning_abstract;
 using Demo.partial;
 using Demo.Sealed;
 using Demo.Static;
@@ -85,6 +85,10 @@ namespace Demo
             //e.myfun();
 
             #endregion
+            //Shape s = new Demo.Trainning_abstract.Rectangle(10,20);
+            //Console.WriteLine(s.Area());
+         
+            
         }
     }
 }
